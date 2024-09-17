@@ -4,7 +4,7 @@ This project showcases my university exercises in GLSL animation, written in Jav
 
 As part of the course, we explored the fundamentals of 3D computer graphics, focusing on how they are generated and rendered using shaders running on the GPU. Through these exercises, I gained hands-on experience in animating 3D graphics, applying textures, and implementing lighting models.
 
-## Contents of the Exercise
+## Contents of the Exercises
 The project involved using Java alongside GLSL shaders to animate 3D objects, control textures, and calculate various shading techniques, such as Lambertian and Phong shading.
 
 We learned how to:
@@ -21,6 +21,8 @@ For the final task, I created an animation featuring three objects:
 These objects follow a circular motion, with the Cube being orbited by the Pyramid, which in turn is orbited by the Goat. The Cube and Pyramid use custom-applied textures, while the Goat is an imported model.
 
 Below is a screenshot of the animation:
+
+![GLSL Project Screenshot](Glsl-project-screenshot2.png)
 
 ![GLSL Project Screenshot](Glsl-project-screenshot.png)
 
