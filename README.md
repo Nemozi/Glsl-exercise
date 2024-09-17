@@ -22,8 +22,6 @@ These objects follow a circular motion, with the Cube being orbited by the Pyram
 
 Below is a screenshot of the animation:
 
-![GLSL Project Screenshot](Glsl-project-screenshot2.png)
-
 ![GLSL Project Screenshot](Glsl-project-screenshot.png)
 
 This course was a great learning experience, allowing me to explore the capabilities of GLSL shaders to create animations. 
